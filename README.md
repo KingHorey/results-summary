@@ -16,8 +16,8 @@ Repository houses a results card following an online/in-app evaluation
 # Overview
 Repository contains a responsive result card following an online/in-app assessment 
 # Screenshot
-![](.result1.png)
-![](.result2.png)
+![](./result1.png)
+![](./result2.png)
 
 # My process
 
